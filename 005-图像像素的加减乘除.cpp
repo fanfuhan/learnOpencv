@@ -5,7 +5,7 @@ using namespace std;
 using namespace cv;
 
 /*
- * Í¼ÏñÏñËØµÄ¼Ó¼õ³Ë³ı
+ * å›¾åƒåƒç´ çš„åŠ å‡ä¹˜é™¤ï¼Œä¸¤å¼ å›¾åƒå¤§å°ç±»å‹è¦å®Œå…¨ç›¸åŒ
  */
     int main(){
     Mat src1 = imread("../images/opencv_images/LinuxLogo.jpg");
@@ -17,27 +17,32 @@ using namespace cv;
     imshow("input1", src1);
     imshow("input2", src2);
 
-    // ¼Ó·¨
+    // åŠ æ³•
     Mat add_result = Mat::zeros(src1.size(),src1.type());
     add(src1, src2, add_result);
     imshow("add_result", add_result);
 
-    // ¼õ·¨
+    // å¸¦æƒé‡çš„åŠ æ³•ï¼Œä¸€èˆ¬æ¨èä½¿ç”¨è¿™ä¸ª
+    Mat add_weight_result = Mat::zeros(src1.size(),src1.type());
+    addWeighted(src1, 0.5, src2, (1.0 - 0.5), 0.0, add_weight_result);
+    imshow("add_weight_result", add_weight_result);
+
+    // å‡æ³•
     Mat sub_result = Mat::zeros(src1.size(),src1.type());
     subtract(src1, src2, sub_result);
     imshow("sub_result", sub_result);
 
-    // ³Ë·¨
+    // ä¹˜æ³•
     Mat mul_result = Mat::zeros(src1.size(),src1.type());
     multiply(src1, src2, mul_result);
     imshow("mul_result", mul_result);
 
-    // ³ı·¨
+    // é™¤æ³•
     Mat div_result = Mat::zeros(src1.size(),src1.type());
-    add(src1, src2, div_result);
+    divide(src1, src2, div_result);
     imshow("div_result", div_result);
 
-    // ×Ô¼ºÊµÏÖ¼Ó·¨²Ù×÷
+    // è‡ªå·±å®ç°åŠ æ³•æ“ä½œ
     int b1 = 0, g1 = 0, r1 = 0;
     int b2 = 0, g2 = 0, r2 = 0;
     int b = 0, g = 0, r = 0;
@@ -53,7 +58,7 @@ using namespace cv;
             g2 = src2.at<Vec3b>(row, col)[1];
             r2 = src2.at<Vec3b>(row, col)[2];
 
-            // b1:0~255,b2:0~255, b1+b2¿ÉÄÜ´óÓÚ255£¬ËùÒÔĞèÒª×ª»»£¬Í¨¹ısaturate_cast<uchar>()
+            // b1:0~255,b2:0~255, b1+b2å¯èƒ½å¤§äº255ï¼Œæ‰€ä»¥éœ€è¦è½¬æ¢ï¼Œé€šè¿‡saturate_cast<uchar>()
             my_add_result.at<Vec3b>(row, col)[0] = saturate_cast<uchar>(b1 + b2);
             my_add_result.at<Vec3b>(row, col)[1] = saturate_cast<uchar>(g1 + g2);
             my_add_result.at<Vec3b>(row, col)[2] = saturate_cast<uchar>(r1 + r2);
