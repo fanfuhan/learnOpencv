@@ -1,0 +1,3 @@
+D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug/CMakeFiles/learnOpencv.dir
+D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
