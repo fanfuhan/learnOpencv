@@ -122,32 +122,32 @@ learnOpencv/fast:
 	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/build
 .PHONY : learnOpencv/fast
 
-006.obj: 006.cpp.obj
+013-图像翻转.obj: 013-图像翻转.cpp.obj
 
-.PHONY : 006.obj
+.PHONY : 013-图像翻转.obj
 
 # target to build an object file
-006.cpp.obj:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/006.cpp.obj
-.PHONY : 006.cpp.obj
+013-图像翻转.cpp.obj:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.obj
+.PHONY : 013-图像翻转.cpp.obj
 
-006.i: 006.cpp.i
+013-图像翻转.i: 013-图像翻转.cpp.i
 
-.PHONY : 006.i
+.PHONY : 013-图像翻转.i
 
 # target to preprocess a source file
-006.cpp.i:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/006.cpp.i
-.PHONY : 006.cpp.i
+013-图像翻转.cpp.i:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.i
+.PHONY : 013-图像翻转.cpp.i
 
-006.s: 006.cpp.s
+013-图像翻转.s: 013-图像翻转.cpp.s
 
-.PHONY : 006.s
+.PHONY : 013-图像翻转.s
 
 # target to generate assembly for a file
-006.cpp.s:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/006.cpp.s
-.PHONY : 006.cpp.s
+013-图像翻转.cpp.s:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.s
+.PHONY : 013-图像翻转.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... learnOpencv
 	@echo ... rebuild_cache
-	@echo ... 006.obj
-	@echo ... 006.i
-	@echo ... 006.s
+	@echo ... 013-图像翻转.obj
+	@echo ... 013-图像翻转.i
+	@echo ... 013-图像翻转.s
 .PHONY : help
 
 
