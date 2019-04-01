@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.obj"
+  "CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj"
   "learnOpencv.pdb"
   "learnOpencv.exe"
   "learnOpencv.exe.manifest"

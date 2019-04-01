@@ -122,32 +122,32 @@ learnOpencv/fast:
 	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/build
 .PHONY : learnOpencv/fast
 
-013-图像翻转.obj: 013-图像翻转.cpp.obj
+019-图像直方图比较.obj: 019-图像直方图比较.cpp.obj
 
-.PHONY : 013-图像翻转.obj
+.PHONY : 019-图像直方图比较.obj
 
 # target to build an object file
-013-图像翻转.cpp.obj:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.obj
-.PHONY : 013-图像翻转.cpp.obj
+019-图像直方图比较.cpp.obj:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj
+.PHONY : 019-图像直方图比较.cpp.obj
 
-013-图像翻转.i: 013-图像翻转.cpp.i
+019-图像直方图比较.i: 019-图像直方图比较.cpp.i
 
-.PHONY : 013-图像翻转.i
+.PHONY : 019-图像直方图比较.i
 
 # target to preprocess a source file
-013-图像翻转.cpp.i:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.i
-.PHONY : 013-图像翻转.cpp.i
+019-图像直方图比较.cpp.i:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.i
+.PHONY : 019-图像直方图比较.cpp.i
 
-013-图像翻转.s: 013-图像翻转.cpp.s
+019-图像直方图比较.s: 019-图像直方图比较.cpp.s
 
-.PHONY : 013-图像翻转.s
+.PHONY : 019-图像直方图比较.s
 
 # target to generate assembly for a file
-013-图像翻转.cpp.s:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/013-图像翻转.cpp.s
-.PHONY : 013-图像翻转.cpp.s
+019-图像直方图比较.cpp.s:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.s
+.PHONY : 019-图像直方图比较.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... learnOpencv
 	@echo ... rebuild_cache
-	@echo ... 013-图像翻转.obj
-	@echo ... 013-图像翻转.i
-	@echo ... 013-图像翻转.s
+	@echo ... 019-图像直方图比较.obj
+	@echo ... 019-图像直方图比较.i
+	@echo ... 019-图像直方图比较.s
 .PHONY : help
 
 
