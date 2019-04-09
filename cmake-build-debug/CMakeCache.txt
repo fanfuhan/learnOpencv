@@ -238,6 +238,12 @@ CMAKE_STRIP:FILEPATH=D:/software/MinGw/mingw64/bin/strip.exe
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//The directory containing a CMake configuration file for OPENCV.
+OPENCV_DIR:PATH=OPENCV_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for OpenCV.
+OpenCV_DIR:PATH=OpenCV_DIR-NOTFOUND
+
 //Value Computed by CMake
 learnOpencv_BINARY_DIR:STATIC=D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug
 
@@ -408,5 +414,5 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Details about finding OpenCV
-FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[D:/software/opencv4/MinGw64_build/install][v4.0.1()]
+FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[D:/software/opencv4/MinGw64_build/install][v4.0.1(4)]
 

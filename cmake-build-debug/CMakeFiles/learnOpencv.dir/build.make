@@ -56,30 +56,31 @@ include CMakeFiles/learnOpencv.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/learnOpencv.dir/flags.make
 
-CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj: CMakeFiles/learnOpencv.dir/flags.make
-CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj: CMakeFiles/learnOpencv.dir/includes_CXX.rsp
-CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj: ../019-图像直方图比较.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code-workspace\Clion-workspace\learnOpencv\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj"
-	D:\software\MinGw\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\learnOpencv.dir\019-图像直方图比较.cpp.obj -c D:\code-workspace\Clion-workspace\learnOpencv\019-图像直方图比较.cpp
+CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj: CMakeFiles/learnOpencv.dir/flags.make
+CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj: CMakeFiles/learnOpencv.dir/includes_CXX.rsp
+CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj: ../030-自定义滤波.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code-workspace\Clion-workspace\learnOpencv\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj"
+	D:\software\MinGw\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\learnOpencv.dir\030-自定义滤波.cpp.obj -c D:\code-workspace\Clion-workspace\learnOpencv\030-自定义滤波.cpp
 
-CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.i"
-	D:\software\MinGw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code-workspace\Clion-workspace\learnOpencv\019-图像直方图比较.cpp > CMakeFiles\learnOpencv.dir\019-图像直方图比较.cpp.i
+CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.i"
+	D:\software\MinGw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code-workspace\Clion-workspace\learnOpencv\030-自定义滤波.cpp > CMakeFiles\learnOpencv.dir\030-自定义滤波.cpp.i
 
-CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.s"
-	D:\software\MinGw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code-workspace\Clion-workspace\learnOpencv\019-图像直方图比较.cpp -o CMakeFiles\learnOpencv.dir\019-图像直方图比较.cpp.s
+CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.s"
+	D:\software\MinGw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code-workspace\Clion-workspace\learnOpencv\030-自定义滤波.cpp -o CMakeFiles\learnOpencv.dir\030-自定义滤波.cpp.s
 
 # Object files for target learnOpencv
 learnOpencv_OBJECTS = \
-"CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj"
+"CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj"
 
 # External object files for target learnOpencv
 learnOpencv_EXTERNAL_OBJECTS =
 
-learnOpencv.exe: CMakeFiles/learnOpencv.dir/019-图像直方图比较.cpp.obj
+learnOpencv.exe: CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj
 learnOpencv.exe: CMakeFiles/learnOpencv.dir/build.make
 learnOpencv.exe: D:/software/opencv4/MinGw64_build/install/x64/mingw/lib/libopencv_highgui401.dll.a
+learnOpencv.exe: D:/software/opencv4/MinGw64_build/install/x64/mingw/lib/libopencv_photo401.dll.a
 learnOpencv.exe: D:/software/opencv4/MinGw64_build/install/x64/mingw/lib/libopencv_videoio401.dll.a
 learnOpencv.exe: D:/software/opencv4/MinGw64_build/install/x64/mingw/lib/libopencv_imgcodecs401.dll.a
 learnOpencv.exe: D:/software/opencv4/MinGw64_build/install/x64/mingw/lib/libopencv_imgproc401.dll.a

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/code-workspace/Clion-workspace/learnOpencv/019.cpp
+D:/code-workspace/Clion-workspace/learnOpencv/030.cpp
 iostream
 -
 opencv2/opencv.hpp
