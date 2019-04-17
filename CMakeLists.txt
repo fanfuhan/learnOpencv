@@ -9,7 +9,7 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/")
 find_package(OpenCV 4 REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
-add_executable(learnOpencv 030-自定义滤波.cpp)
+add_executable(learnOpencv "051-二值图像分析(使用轮廓逼近).cpp")
 
 # add libs you need
 set(OpenCV_LIBS opencv_core opencv_imgproc opencv_highgui opencv_imgcodecs opencv_photo)

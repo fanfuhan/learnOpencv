@@ -122,32 +122,32 @@ learnOpencv/fast:
 	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/build
 .PHONY : learnOpencv/fast
 
-030-自定义滤波.obj: 030-自定义滤波.cpp.obj
+051-二值图像分析(使用轮廓逼近).obj: 051-二值图像分析(使用轮廓逼近).cpp.obj
 
-.PHONY : 030-自定义滤波.obj
+.PHONY : 051-二值图像分析(使用轮廓逼近).obj
 
 # target to build an object file
-030-自定义滤波.cpp.obj:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.obj
-.PHONY : 030-自定义滤波.cpp.obj
+051-二值图像分析(使用轮廓逼近).cpp.obj:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.obj
+.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.obj
 
-030-自定义滤波.i: 030-自定义滤波.cpp.i
+051-二值图像分析(使用轮廓逼近).i: 051-二值图像分析(使用轮廓逼近).cpp.i
 
-.PHONY : 030-自定义滤波.i
+.PHONY : 051-二值图像分析(使用轮廓逼近).i
 
 # target to preprocess a source file
-030-自定义滤波.cpp.i:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.i
-.PHONY : 030-自定义滤波.cpp.i
+051-二值图像分析(使用轮廓逼近).cpp.i:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.i
+.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.i
 
-030-自定义滤波.s: 030-自定义滤波.cpp.s
+051-二值图像分析(使用轮廓逼近).s: 051-二值图像分析(使用轮廓逼近).cpp.s
 
-.PHONY : 030-自定义滤波.s
+.PHONY : 051-二值图像分析(使用轮廓逼近).s
 
 # target to generate assembly for a file
-030-自定义滤波.cpp.s:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/030-自定义滤波.cpp.s
-.PHONY : 030-自定义滤波.cpp.s
+051-二值图像分析(使用轮廓逼近).cpp.s:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.s
+.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... learnOpencv
 	@echo ... rebuild_cache
-	@echo ... 030-自定义滤波.obj
-	@echo ... 030-自定义滤波.i
-	@echo ... 030-自定义滤波.s
+	@echo ... 051-二值图像分析(使用轮廓逼近).obj
+	@echo ... 051-二值图像分析(使用轮廓逼近).i
+	@echo ... 051-二值图像分析(使用轮廓逼近).s
 .PHONY : help
 
 

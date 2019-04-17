@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/code-workspace/Clion-workspace/learnOpencv/030-自定义滤波.cpp">
+		<Unit filename="D:/code-workspace/Clion-workspace/learnOpencv/051-二值图像分析(使用轮廓逼近).cpp">
 			<Option target="learnOpencv"/>
 		</Unit>
 		<Unit filename="D:/code-workspace/Clion-workspace/learnOpencv/CMakeLists.txt">
