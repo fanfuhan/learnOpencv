@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.obj"
+  "CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj"
   "learnOpencv.pdb"
   "learnOpencv.exe"
   "learnOpencv.exe.manifest"

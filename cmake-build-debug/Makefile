@@ -122,32 +122,32 @@ learnOpencv/fast:
 	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/build
 .PHONY : learnOpencv/fast
 
-051-二值图像分析(使用轮廓逼近).obj: 051-二值图像分析(使用轮廓逼近).cpp.obj
+066-图像形态学(开闭操作时候结构元素应用演示).obj: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
 
-.PHONY : 051-二值图像分析(使用轮廓逼近).obj
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).obj
 
 # target to build an object file
-051-二值图像分析(使用轮廓逼近).cpp.obj:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.obj
-.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.obj
+066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
 
-051-二值图像分析(使用轮廓逼近).i: 051-二值图像分析(使用轮廓逼近).cpp.i
+066-图像形态学(开闭操作时候结构元素应用演示).i: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
 
-.PHONY : 051-二值图像分析(使用轮廓逼近).i
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).i
 
 # target to preprocess a source file
-051-二值图像分析(使用轮廓逼近).cpp.i:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.i
-.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.i
+066-图像形态学(开闭操作时候结构元素应用演示).cpp.i:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
 
-051-二值图像分析(使用轮廓逼近).s: 051-二值图像分析(使用轮廓逼近).cpp.s
+066-图像形态学(开闭操作时候结构元素应用演示).s: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
 
-.PHONY : 051-二值图像分析(使用轮廓逼近).s
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).s
 
 # target to generate assembly for a file
-051-二值图像分析(使用轮廓逼近).cpp.s:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/051-二值图像分析(使用轮廓逼近).cpp.s
-.PHONY : 051-二值图像分析(使用轮廓逼近).cpp.s
+066-图像形态学(开闭操作时候结构元素应用演示).cpp.s:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
+.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... learnOpencv
 	@echo ... rebuild_cache
-	@echo ... 051-二值图像分析(使用轮廓逼近).obj
-	@echo ... 051-二值图像分析(使用轮廓逼近).i
-	@echo ... 051-二值图像分析(使用轮廓逼近).s
+	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).obj
+	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).i
+	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).s
 .PHONY : help
 
 
