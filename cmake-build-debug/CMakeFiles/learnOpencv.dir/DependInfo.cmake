@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code-workspace/Clion-workspace/learnOpencv/066-图像形态学(开闭操作时候结构元素应用演示).cpp" "D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug/CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj"
+  "D:/code-workspace/Clion-workspace/learnOpencv/089.cpp" "D:/code-workspace/Clion-workspace/learnOpencv/cmake-build-debug/CMakeFiles/learnOpencv.dir/089.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

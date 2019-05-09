@@ -9,10 +9,11 @@ set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/")
 find_package(OpenCV 4 REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
-add_executable(learnOpencv "066-图像形态学(开闭操作时候结构元素应用演示).cpp")
+add_executable(learnOpencv 089.cpp)
 
 # add libs you need
-set(OpenCV_LIBS opencv_core opencv_imgproc opencv_highgui opencv_imgcodecs opencv_photo)
+set(OpenCV_LIBS opencv_core opencv_imgproc opencv_highgui opencv_imgcodecs opencv_photo opencv_calib3d
+        opencv_video)
 # linking
 target_link_libraries(learnOpencv ${OpenCV_LIBS})
 

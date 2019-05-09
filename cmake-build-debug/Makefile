@@ -122,32 +122,32 @@ learnOpencv/fast:
 	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/build
 .PHONY : learnOpencv/fast
 
-066-图像形态学(开闭操作时候结构元素应用演示).obj: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
+089.obj: 089.cpp.obj
 
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).obj
+.PHONY : 089.obj
 
 # target to build an object file
-066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.obj
+089.cpp.obj:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/089.cpp.obj
+.PHONY : 089.cpp.obj
 
-066-图像形态学(开闭操作时候结构元素应用演示).i: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
+089.i: 089.cpp.i
 
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).i
+.PHONY : 089.i
 
 # target to preprocess a source file
-066-图像形态学(开闭操作时候结构元素应用演示).cpp.i:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.i
+089.cpp.i:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/089.cpp.i
+.PHONY : 089.cpp.i
 
-066-图像形态学(开闭操作时候结构元素应用演示).s: 066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
+089.s: 089.cpp.s
 
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).s
+.PHONY : 089.s
 
 # target to generate assembly for a file
-066-图像形态学(开闭操作时候结构元素应用演示).cpp.s:
-	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
-.PHONY : 066-图像形态学(开闭操作时候结构元素应用演示).cpp.s
+089.cpp.s:
+	$(MAKE) -f CMakeFiles\learnOpencv.dir\build.make CMakeFiles/learnOpencv.dir/089.cpp.s
+.PHONY : 089.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... learnOpencv
 	@echo ... rebuild_cache
-	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).obj
-	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).i
-	@echo ... 066-图像形态学(开闭操作时候结构元素应用演示).s
+	@echo ... 089.obj
+	@echo ... 089.i
+	@echo ... 089.s
 .PHONY : help
 
 

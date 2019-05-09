@@ -6,10 +6,12 @@
 
 #IncludeRegexTransform: 
 
-D:/code-workspace/Clion-workspace/learnOpencv/066.cpp
+D:/code-workspace/Clion-workspace/learnOpencv/088.cpp
+opencv2/opencv.hpp
+-
 iostream
 -
-opencv2/opencv.hpp
+ctype.h
 -
 
 D:/software/opencv4/MinGw64_build/install/include/opencv2/calib3d.hpp
