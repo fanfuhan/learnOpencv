@@ -5,7 +5,7 @@ Grabcut图像分割
 import cv2 as cv
 import numpy as np
 
-src = cv.imread("images/master.jpg")
+src = cv.imread("../images/master.jpg")
 cv.imshow("input", src)
 
 mask = np.zeros(src.shape[:2], dtype=np.uint8)

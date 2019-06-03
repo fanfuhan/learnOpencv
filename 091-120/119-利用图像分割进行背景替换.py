@@ -5,7 +5,7 @@
 import cv2 as cv
 import numpy as np
 
-src = cv.imread("images/master.jpg")
+src = cv.imread("../images/master.jpg")
 h, w = src.shape[:2]
 background = cv.imread("images/land.jpg")
 background = cv.resize(background, (w, h))

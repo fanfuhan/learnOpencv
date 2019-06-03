@@ -11,10 +11,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3468a4cc-f6dd-41e3-8d3c-87c585e04f9b" name="Default Changelist" comment="104">
-      <change afterPath="$PROJECT_DIR$/120-二维码检测与识别.py" afterDir="false" />
+    <list default="true" id="3468a4cc-f6dd-41e3-8d3c-87c585e04f9b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/box.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/091-120/118-Grabcut图像分割.py" beforeDir="false" afterPath="$PROJECT_DIR$/091-120/118-Grabcut图像分割.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/091-120/119-利用图像分割进行背景替换.py" beforeDir="false" afterPath="$PROJECT_DIR$/091-120/119-利用图像分割进行背景替换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/learnOpencv.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/learnOpencv.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/learnOpencv.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,12 +36,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/120-二维码检测与识别.py">
+        <entry file="file://$PROJECT_DIR$/139.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="401">
+              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding>
-                <element signature="e#18#34#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,7 +59,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>morph</find>
+      <find>\\</find>
     </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,28 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/075.cpp" />
-        <option value="$PROJECT_DIR$/076.cpp" />
-        <option value="$PROJECT_DIR$/077.cpp" />
-        <option value="$PROJECT_DIR$/078.cpp" />
-        <option value="$PROJECT_DIR$/079.cpp" />
-        <option value="$PROJECT_DIR$/080.cpp" />
-        <option value="$PROJECT_DIR$/081.cpp" />
-        <option value="$PROJECT_DIR$/082.cpp" />
-        <option value="$PROJECT_DIR$/083.cpp" />
-        <option value="$PROJECT_DIR$/084.cpp" />
-        <option value="$PROJECT_DIR$/085.cpp" />
-        <option value="$PROJECT_DIR$/086.cpp" />
-        <option value="$PROJECT_DIR$/087.cpp" />
-        <option value="$PROJECT_DIR$/088.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/089.cpp" />
-        <option value="$PROJECT_DIR$/089.py" />
-        <option value="$PROJECT_DIR$/089-视频分析(基于连续自适应均值迁移（CAM）的对象移动分析).py" />
-        <option value="$PROJECT_DIR$/090.py" />
-        <option value="$PROJECT_DIR$/091.py" />
-        <option value="$PROJECT_DIR$/092.py" />
-        <option value="$PROJECT_DIR$/093-对象检测(LBP特征介绍).py" />
         <option value="$PROJECT_DIR$/031-060/034-图像锐化.cpp" />
         <option value="$PROJECT_DIR$/094-ORB之FAST特征关键点检测.py" />
         <option value="$PROJECT_DIR$/095-ORB之BRIEF特征描述子匹配.py" />
@@ -112,6 +101,28 @@
         <option value="$PROJECT_DIR$/118-Grabcut图像分割.py" />
         <option value="$PROJECT_DIR$/119-利用图像分割进行背景替换.py" />
         <option value="$PROJECT_DIR$/120-二维码检测与识别.py" />
+        <option value="$PROJECT_DIR$/121-DNN模块 获取导入模型各层信息.py" />
+        <option value="$PROJECT_DIR$/122-DNN 实现图像分类.py" />
+        <option value="$PROJECT_DIR$/123-DNN 为模型运行设置目标设备与计算后台.py" />
+        <option value="$PROJECT_DIR$/124-DNN 基于SSD实现对象检测.py" />
+        <option value="$PROJECT_DIR$/125-DNN 基于SSD实现实时视频检测.py" />
+        <option value="$PROJECT_DIR$/127-DNN 基于残差网络的视频人脸检测.py" />
+        <option value="$PROJECT_DIR$/126-DNN 基于残差网络的人脸检测.py" />
+        <option value="$PROJECT_DIR$/128-DNN 直接调用tensorflow的导出模型.py" />
+        <option value="$PROJECT_DIR$/091-120/118-Grabcut图像分割.py" />
+        <option value="$PROJECT_DIR$/091-120/119-利用图像分割进行背景替换.py" />
+        <option value="$PROJECT_DIR$/129-DNN 调用openpose模型实现姿态评估.py" />
+        <option value="$PROJECT_DIR$/yolov3.cfg" />
+        <option value="$PROJECT_DIR$/130-DNN 支持YOLO对象检测网络运行.py" />
+        <option value="$PROJECT_DIR$/131-DNN 支持YOLOv3-tiny版本实时对象检测.py" />
+        <option value="$PROJECT_DIR$/132-DNN 单张与多张图像的推断.py" />
+        <option value="$PROJECT_DIR$/133-DNN 图像颜色化模型使用.py" />
+        <option value="$PROJECT_DIR$/134-DNN ENet实现图像分割.py" />
+        <option value="$PROJECT_DIR$/135-DNN 实时快速的图像风格迁移.py" />
+        <option value="$PROJECT_DIR$/137-DNN 实现性别与年龄预测zz.py" />
+        <option value="$PROJECT_DIR$/137-DNN 实现性别与年龄预测.py" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/139.cpp" />
       </list>
     </option>
   </component>
@@ -128,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +151,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,13 +162,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code-workspace\Clion-workspace\learnOpencv\images" />
+      <recent name="D:\code-workspace\Clion-workspace\learnOpencv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code-workspace\Clion-workspace\learnOpencv" />
+      <recent name="D:\code-workspace\Clion-workspace\learnOpencv\091-120" />
       <recent name="D:\code-workspace\Clion-workspace\learnOpencv\061-090" />
       <recent name="D:\code-workspace\Clion-workspace\learnOpencv\031-060" />
       <recent name="D:\code-workspace\Clion-workspace\learnOpencv\001-030" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code-workspace\Clion-workspace\learnOpencv\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,13 +186,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.120-二维码检测与识别">
+  <component name="RunManager" selected="Python.137-DNN 实现性别与年龄预测zz">
     <configuration name="learnOpencv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="learnOpencv" TARGET_NAME="learnOpencv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="learnOpencv" RUN_TARGET_NAME="learnOpencv">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="116-决策树算法 介绍与使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="132-DNN 单张与多张图像的推断" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnOpencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\091-120\116-决策树算法 介绍与使用.py" />
+      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\121-140\132-DNN 单张与多张图像的推断.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="117-图像均值漂移分割" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="134-DNN ENet实现图像分割" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnOpencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\091-120\117-图像均值漂移分割.py" />
+      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\121-140\134-DNN ENet实现图像分割.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="118-Grabcut图像分割" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="135-DNN 实时快速的图像风格迁移" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnOpencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +246,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\091-120\118-Grabcut图像分割.py" />
+      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\121-140\135-DNN 实时快速的图像风格迁移.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="119-利用图像分割进行背景替换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="137-DNN 实现性别与年龄预测zz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnOpencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\091-120\119-利用图像分割进行背景替换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/137-DNN 实现性别与年龄预测zz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="120-二维码检测与识别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="137-DNN 实现性别与年龄预测" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnOpencv" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,7 +288,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\091-120\120-二维码检测与识别.py" />
+      <option name="SCRIPT_NAME" value="D:\code-workspace\Clion-workspace\learnOpencv\121-140\137-DNN 实现性别与年龄预测.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +299,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.learnOpencv" />
-      <item itemvalue="Python.116-决策树算法 介绍与使用" />
-      <item itemvalue="Python.117-图像均值漂移分割" />
-      <item itemvalue="Python.118-Grabcut图像分割" />
-      <item itemvalue="Python.119-利用图像分割进行背景替换" />
-      <item itemvalue="Python.120-二维码检测与识别" />
+      <item itemvalue="Python.132-DNN 单张与多张图像的推断" />
+      <item itemvalue="Python.134-DNN ENet实现图像分割" />
+      <item itemvalue="Python.135-DNN 实时快速的图像风格迁移" />
+      <item itemvalue="Python.137-DNN 实现性别与年龄预测" />
+      <item itemvalue="Python.137-DNN 实现性别与年龄预测zz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.120-二维码检测与识别" />
-        <item itemvalue="Python.119-利用图像分割进行背景替换" />
-        <item itemvalue="Python.118-Grabcut图像分割" />
-        <item itemvalue="Python.117-图像均值漂移分割" />
-        <item itemvalue="Python.116-决策树算法 介绍与使用" />
+        <item itemvalue="Python.137-DNN 实现性别与年龄预测zz" />
+        <item itemvalue="Python.137-DNN 实现性别与年龄预测" />
+        <item itemvalue="Python.135-DNN 实时快速的图像风格迁移" />
+        <item itemvalue="Python.134-DNN ENet实现图像分割" />
+        <item itemvalue="Python.132-DNN 单张与多张图像的推断" />
       </list>
     </recent_temporary>
   </component>
@@ -370,126 +384,15 @@
       <workItem from="1558514288440" duration="15944000" />
       <workItem from="1558591804015" duration="5838000" />
       <workItem from="1558678968490" duration="11005000" />
-      <workItem from="1558765530570" duration="6510000" />
-    </task>
-    <task id="LOCAL-00074" summary="072">
-      <created>1556028526355</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1556028526355</updated>
-    </task>
-    <task id="LOCAL-00075" summary="073">
-      <created>1556032257752</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1556032257752</updated>
-    </task>
-    <task id="LOCAL-00076" summary="074">
-      <created>1556086458904</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1556086458905</updated>
-    </task>
-    <task id="LOCAL-00077" summary="075">
-      <created>1556092034119</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1556092034119</updated>
-    </task>
-    <task id="LOCAL-00078" summary="076">
-      <created>1556112686997</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1556112686997</updated>
-    </task>
-    <task id="LOCAL-00079" summary="077">
-      <created>1556195080102</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1556195080102</updated>
-    </task>
-    <task id="LOCAL-00080" summary="078">
-      <created>1556196648331</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1556196648331</updated>
-    </task>
-    <task id="LOCAL-00081" summary="079">
-      <created>1556262300547</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1556262300547</updated>
-    </task>
-    <task id="LOCAL-00082" summary="080">
-      <created>1556263421605</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1556263421605</updated>
-    </task>
-    <task id="LOCAL-00083" summary="081">
-      <created>1557108876413</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1557108876413</updated>
-    </task>
-    <task id="LOCAL-00084" summary="082">
-      <created>1557110322960</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1557110322960</updated>
-    </task>
-    <task id="LOCAL-00085" summary="083">
-      <created>1557124093799</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1557124093799</updated>
-    </task>
-    <task id="LOCAL-00086" summary="084">
-      <created>1557236620691</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1557236620691</updated>
-    </task>
-    <task id="LOCAL-00087" summary="085">
-      <created>1557283156061</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1557283156061</updated>
-    </task>
-    <task id="LOCAL-00088" summary="086">
-      <created>1557285577259</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1557285577259</updated>
-    </task>
-    <task id="LOCAL-00089" summary="087">
-      <created>1557318168733</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1557318168733</updated>
-    </task>
-    <task id="LOCAL-00090" summary="088">
-      <created>1557323026460</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1557323026460</updated>
+      <workItem from="1558765530570" duration="6842000" />
+      <workItem from="1558851174560" duration="7768000" />
+      <workItem from="1558922228098" duration="9070000" />
+      <workItem from="1559009285799" duration="597000" />
+      <workItem from="1559090980682" duration="2954000" />
+      <workItem from="1559134108465" duration="6378000" />
+      <workItem from="1559267193171" duration="3783000" />
+      <workItem from="1559481347932" duration="3676000" />
+      <workItem from="1559563730950" duration="1754000" />
     </task>
     <task id="LOCAL-00091" summary="089">
       <created>1557367311682</created>
@@ -715,11 +618,130 @@
       <option name="project" value="LOCAL" />
       <updated>1558772442860</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="120">
+      <created>1558774241842</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1558774241842</updated>
+    </task>
+    <task id="LOCAL-00124" summary="104">
+      <created>1558774315596</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1558774315596</updated>
+    </task>
+    <task id="LOCAL-00125" summary="121">
+      <created>1558853543985</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1558853543986</updated>
+    </task>
+    <task id="LOCAL-00126" summary="122">
+      <created>1558856374934</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1558856374934</updated>
+    </task>
+    <task id="LOCAL-00127" summary="123">
+      <created>1558856808102</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1558856808102</updated>
+    </task>
+    <task id="LOCAL-00128" summary="124">
+      <created>1558858630982</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1558858630982</updated>
+    </task>
+    <task id="LOCAL-00129" summary="125">
+      <created>1558859475095</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1558859475095</updated>
+    </task>
+    <task id="LOCAL-00130" summary="126">
+      <created>1558925930820</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1558925930820</updated>
+    </task>
+    <task id="LOCAL-00131" summary="127">
+      <created>1558927237796</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1558927237796</updated>
+    </task>
+    <task id="LOCAL-00132" summary="128">
+      <created>1558930713156</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1558930713156</updated>
+    </task>
+    <task id="LOCAL-00133" summary="130">
+      <created>1559094227875</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1559094227877</updated>
+    </task>
+    <task id="LOCAL-00134" summary="131">
+      <created>1559200777239</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1559200777239</updated>
+    </task>
+    <task id="LOCAL-00135" summary="132">
+      <created>1559203619589</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1559203619590</updated>
+    </task>
+    <task id="LOCAL-00136" summary="133">
+      <created>1559220095682</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1559220095682</updated>
+    </task>
+    <task id="LOCAL-00137" summary="134">
+      <created>1559271305357</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1559271305357</updated>
+    </task>
+    <task id="LOCAL-00138" summary="135">
+      <created>1559271746718</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1559271746718</updated>
+    </task>
+    <task id="LOCAL-00139" summary="137">
+      <created>1559484544789</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1559484544789</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242440000" />
+    <option name="totallyTimeSpent" value="278752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,14 +753,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5014663" side_tool="true" weight="0.23994638" />
       <window_info id="Favorites" order="1" sideWeight="0.5014663" side_tool="true" weight="0.23994638" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49853373" visible="true" weight="0.29155496" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49853373" weight="0.20375335" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32844576" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930844" weight="0.5043988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930844" weight="0.36070383" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.38153845" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006916" side_tool="true" weight="0.47067448" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32844576" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49930844" weight="0.7741935" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.5014663" side_tool="true" weight="0.23994638" />
+      <window_info id="Favorites" order="1" sideWeight="0.5014663" side_tool="true" weight="0.23994638" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49853373" visible="true" weight="0.2419571" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32844576" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930844" weight="0.58153844" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.38153845" />
@@ -753,29 +798,12 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="094" />
-    <MESSAGE value="095" />
-    <MESSAGE value="096" />
-    <MESSAGE value="097" />
-    <MESSAGE value="098" />
-    <MESSAGE value="099" />
-    <MESSAGE value="100" />
-    <MESSAGE value="101" />
-    <MESSAGE value="102" />
-    <MESSAGE value="103" />
-    <MESSAGE value="104" />
-    <MESSAGE value="105" />
-    <MESSAGE value="106" />
-    <MESSAGE value="107" />
-    <MESSAGE value="108" />
-    <MESSAGE value="109" />
-    <MESSAGE value="110" />
     <MESSAGE value="111" />
     <MESSAGE value="112" />
     <MESSAGE value="113" />
@@ -784,217 +812,42 @@
     <MESSAGE value="117" />
     <MESSAGE value="118" />
     <MESSAGE value="119" />
-    <option name="LAST_COMMIT_MESSAGE" value="119" />
+    <MESSAGE value="120" />
+    <MESSAGE value="104" />
+    <MESSAGE value="121" />
+    <MESSAGE value="122" />
+    <MESSAGE value="123" />
+    <MESSAGE value="124" />
+    <MESSAGE value="125" />
+    <MESSAGE value="126" />
+    <MESSAGE value="127" />
+    <MESSAGE value="128" />
+    <MESSAGE value="130" />
+    <MESSAGE value="131" />
+    <MESSAGE value="132" />
+    <MESSAGE value="133" />
+    <MESSAGE value="134" />
+    <MESSAGE value="135" />
+    <MESSAGE value="137" />
+    <option name="LAST_COMMIT_MESSAGE" value="137" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/left.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/fruits.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/cross.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/coins.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/cells.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/099-SIFT特征提取之描述子生成.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/102-HOG特征描述子之提取描述子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_10.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_07.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_05.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/test_01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_06.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/104-HOG-SVM分类训练.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/103-HOG特征描述子之使用描述子特征生成样本数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1484">
-          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="54" selection-end-column="50" />
-          <folding>
-            <element signature="e#32#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svm_data.dat" />
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_09.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_07.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_08.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_01.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_02.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_03.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/positive/box_04.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_08.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/box_04.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/elec_watch/test/scene_01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/105-使用HOG进行对象检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#21#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/095-ORB之BRIEF特征描述子匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="24" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/096-描述子匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/097-基于描述子匹配的已知对象定位.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="e#24#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/106-AKAZE特征与描述子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="20" column="6" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/107-Brisk特征提取与描述子匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/098-SIFT特征提取之关键点提取.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="5" selection-start-line="14" selection-end-line="15" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/zhifang_ball.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/108-特征提取之关键点检测(GFTTDetector).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="13" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/109-BLOB特征分析(simpleblobdetector使用).py">
+    <entry file="file://$PROJECT_DIR$/091-120/109-BLOB特征分析(simpleblobdetector使用).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/110-KMeans进行数据分类.py">
+    <entry file="file://$PROJECT_DIR$/091-120/110-KMeans进行数据分类.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/111-KMeans图像分割.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="e#21#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/114-利用KMeans图像分割进行主色彩提取.py" />
-    <entry file="file://$PROJECT_DIR$/112-利用KMeans图像分割进行背景替换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#28#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/113-利用KMeans图像分割进行主色彩提取.py">
+    <entry file="file://$PROJECT_DIR$/091-120/113-利用KMeans图像分割进行主色彩提取.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
@@ -1007,7 +860,7 @@
     <entry file="file://$PROJECT_DIR$/images/digits.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/114-KNN算法介绍.py">
+    <entry file="file://$PROJECT_DIR$/091-120/114-KNN算法介绍.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
@@ -1017,7 +870,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/116-决策树算法 介绍与使用.py">
+    <entry file="file://$PROJECT_DIR$/091-120/116-决策树算法 介绍与使用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
@@ -1027,39 +880,254 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/117-图像均值漂移分割.py">
+    <entry file="file://$PROJECT_DIR$/091-120/117-图像均值漂移分割.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/118-Grabcut图像分割.py">
+    <entry file="file://$PROJECT_DIR$/091-120/120-二维码检测与识别.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#18#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121-DNN模块 获取导入模型各层信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#26#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122-DNN 实现图像分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <element signature="e#20#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123-DNN 为模型运行设置目标设备与计算后台.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#30#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileNetSSD_deploy.prototxt" />
+    <entry file="file://$PROJECT_DIR$/124-DNN 基于SSD实现对象检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opencv_face_detector.pbtxt" />
+    <entry file="file://$PROJECT_DIR$/deploy.prototxt" />
+    <entry file="file://$PROJECT_DIR$/126-DNN 基于残差网络的人脸检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/127-DNN 基于残差网络的视频人脸检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph.pbtxt" />
+    <entry file="file://$PROJECT_DIR$/091-120/112-利用KMeans图像分割进行背景替换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#28#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/091-120/118-Grabcut图像分割.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#21#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/119-利用图像分割进行背景替换.py">
+    <entry file="file://$PROJECT_DIR$/091-120/111-KMeans图像分割.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="196">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#21#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/091-120/119-利用图像分割进行背景替换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="e#29#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/120-二维码检测与识别.py">
+    <entry file="file://$PROJECT_DIR$/091-120/098-SIFT特征提取之关键点提取.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="252">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/125-DNN 基于SSD实现实时视频检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/129-DNN 调用openpose模型实现姿态评估.py" />
+    <entry file="file://$PROJECT_DIR$/object_detection_classes_yolov3.txt" />
+    <entry file="file://$PROJECT_DIR$/128-DNN 直接调用tensorflow的导出模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov3-tiny.cfg" />
+    <entry file="file://$PROJECT_DIR$/yolov3.cfg" />
+    <entry file="file://$PROJECT_DIR$/130-DNN 支持YOLO对象检测网络运行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
           <folding>
-            <element signature="e#18#34#0" expanded="true" />
+            <element signature="e#28#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/131-DNN 支持YOLOv3-tiny版本实时对象检测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#35#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/airplane.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dog_person_horse.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/persons.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/lena.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/dog.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bvlc_googlenet.prototxt" />
+    <entry file="file://$PROJECT_DIR$/classification_classes_ILSVRC2012.txt" />
+    <entry file="file://$PROJECT_DIR$/132-DNN 单张与多张图像的推断.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/133-DNN 图像颜色化模型使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/134-DNN ENet实现图像分割.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+          <folding>
+            <element signature="e#24#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/135-DNN 实时快速的图像风格迁移.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#25#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/age_deploy.prototxt" />
+    <entry file="file://$PROJECT_DIR$/137-DNN 实现性别与年龄预测zz.py" />
+    <entry file="file://$PROJECT_DIR$/137-DNN 实现性别与年龄预测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#23#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/139.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
